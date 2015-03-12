@@ -32,5 +32,6 @@
 2. 终端程序、文本编辑程序、python都是系统自带，不需要另外安装
 
 # 其他
-因为我安装ubuntu的分区只有32G空余空间，所以分了一半给ubuntu。进入ubuntu并安装了200+M程序更新后，一共用了4+G，剩余9+G空间。
-这个安装方法主要的内容是我用google搜到的一个文章介绍的，因为有点特殊情况，略有不同，有兴趣可以看原文:[链接](http://ubuntu-with-wubi.blogspot.com/2014/10/installing-ubuntu-14041-with-wubi.html)（需翻墙）
+1. 因为我安装ubuntu的分区只有32G空余空间，所以分了一半给ubuntu。进入ubuntu并安装了200+M程序更新后，一共用了4+G，剩余9+G空间。
+2. 这个安装方法主要的内容是我用google搜到的一个文章介绍的，因为有点特殊情况，略有不同，有兴趣可以看原文:[链接](http://ubuntu-with-wubi.blogspot.com/2014/10/installing-ubuntu-14041-with-wubi.html)（需翻墙）
+3. 仅限ubuntu 14.04的wubi安装
